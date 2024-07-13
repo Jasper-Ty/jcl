@@ -1,0 +1,10 @@
+[package]
+name = "jcl"
+version = "0.1.0"
+authors = ["Jasper Ty <jlt383@drexel.edu>"]
+edition = "2021"
+repository = "https://github.com/Jasper-Ty/jcl"
+description = "Jasper's Combinatorics Language"
+
+
+[dependencies]
